@@ -1,4 +1,4 @@
-# BookingProject
+# TMS Project
 
 **How to start working in our project?**
 
