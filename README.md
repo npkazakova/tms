@@ -12,7 +12,7 @@
 
 **Attention!**
 
-Students are not allowed to install any libraries, plugins, etc. to avoid changing configuration files. 
+Not allowed to install any libraries, plugins, etc. to avoid changing configuration files. 
 
 **!!Do not push changed files as:**
 
