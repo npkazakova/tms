@@ -8,7 +8,7 @@ module.exports = defineConfig({
   defaultCommandTimeout: 15000,
   requestTimeout: 15000,
   e2e: {
-    baseUrl: 'https://tms1.12go.io',
+    baseUrl: 'https://qatest.site',
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
