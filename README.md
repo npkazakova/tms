@@ -1,24 +1,14 @@
-# TMS Project
+# Cypress E2E Practice — Booking Web App (TMS)
 
-**How to start working in our project?**
+Course practice project (Jan 2023): E2E UI tests with Cypress for a booking
+web application.
 
-1. Clone repository to your machine.
+## What's inside
+- 31 spec files across 5 page modules: booking creation (seat selection,
+  calendar, passenger details), left menu, header, start page
+  (login / password restore), account management
+- User-story based test naming: `US_XX.XX_<Area>UIandFunc.cy.js`
+- UI checks and functional checks combined per user story
 
-2. Navigate to project root folder.
-
-3. Run command ```npm ci``` in terminal VScode.
-
-4. After, execute ```npx cypress open```  to run tests.
-
-**Attention!**
-
-Not allowed to install any libraries, plugins, etc. to avoid changing configuration files. 
-
-**!!Do not push changed files as:**
-
-```package.json```
-```package.lock.json```
-```ci.yml```
-```cancel.yml```
-```cypress.config.js```
-```e2e.js```
+## Stack
+Cypress · JavaScript · Mocha/Chai assertions
